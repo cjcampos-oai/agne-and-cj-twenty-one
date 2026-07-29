@@ -1,3 +1,3 @@
 :HL["/agne-and-cj-twenty-one/_next/static/chunks/2nd-3f141hkmx.css","style"]
-:HL["/agne-and-cj-twenty-one/_next/static/chunks/1zek0lgcudwvh.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"IqWgHZBiBC4kU1Hl3d57P"}
+:HL["/agne-and-cj-twenty-one/_next/static/chunks/1hmtqipdaxueb.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"OtxdltgihKjZEJPYpE6QH"}
